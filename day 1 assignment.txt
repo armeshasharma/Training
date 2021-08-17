@@ -1,7 +1,0 @@
-Tasks for the day:
-1.working with html registration form
-2.creating same page yourself
-3.change the background colour
-4.change the length of the text box
-5.read out label ,input fields ,drop down menu, radio buttons and checkbox
-6.go through the css code given in the link provided and get ready for next class 
